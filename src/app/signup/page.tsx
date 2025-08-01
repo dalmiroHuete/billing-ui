@@ -100,7 +100,7 @@ export default function SignupPage() {
                 </Box>
             </Box>
 
-            <Banner imageSrc="/images/banner-signup.jpg" />
+            <Banner imageSrc="/images/banner-sign.jpg" />
         </Flex>
     );
 }
